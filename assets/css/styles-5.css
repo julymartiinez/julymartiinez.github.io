@@ -84,6 +84,8 @@ p {
 }
 .sidebar-wrapper .profile {
   margin-bottom: 15px;
+  width: 30px;
+  height: 30px;
 }
 .sidebar-wrapper .contact-list .fa {
   margin-right: 5px;
